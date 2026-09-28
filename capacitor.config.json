@@ -1,0 +1,8 @@
+{
+  "appId": "com.jsbgroup.fleetops",
+  "appName": "JSB Fleet Ops",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#FFFFFF"
+  }
+}
